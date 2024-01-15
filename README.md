@@ -4,3 +4,8 @@ Features
 Login Page: Allows users to enter their credentials and log in.
 Signup Page: Enables users to create a new account by providing necessary information.
 Responsive Design: The pages are designed to adapt to various screen sizes, ensuring a seamless user experience on different devices.
+
+## Screenshots
+
+![Login Page](C:\Users\HP\Pictures\Screenshots\loginpage)
+![Signup Page](C:\Users\HP\Pictures\Screenshots\signuppage)
