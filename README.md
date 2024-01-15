@@ -2,10 +2,11 @@ This repository contains a simple login and signup page built using HTML and CSS
 
 Features
 Login Page: Allows users to enter their credentials and log in.
-Signup Page: Enables users to create a new account by providing necessary information.
+Signup Page: Enables users to create a new account by providing necessary information
+.
 Responsive Design: The pages are designed to adapt to various screen sizes, ensuring a seamless user experience on different devices.
 
 ## Screenshot
-![loginpage](https://github.com/Hariharan1443/project1-nexus/assets/124860165/1a29c16c-9b36-4afd-8dd6-b10f74705812)
+![loginpage](https://github.com/Hariharan1443/project1-nexus/assets/124860165/cc6eb93e-96ca-4665-b0d7-f03da666b251)
 
-![signuppage](https://github.com/Hariharan1443/project1-nexus/assets/124860165/8229895e-97c3-47ac-9c4e-8cc80d6ef3e9)
+![signuppage](https://github.com/Hariharan1443/project1-nexus/assets/124860165/7aad963a-985d-4383-af15-56c9e1a3a4ee)
